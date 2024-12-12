@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hatem Tolba - Professional Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background: linear-gradient(to bottom, #004d40, #1a75ff);
+        }
+        header {
+            text-align: center;
+            padding: 2em;
+            color: white;
+        }
+        header img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin-bottom: 1em;
+            border: 3px solid #1a75ff;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            font-size: 1.2em;
+        }
+        .container {
+            width: 80%;
+            margin: 1em auto;
+            background: white;
+            padding: 2em;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        section {
+            margin-bottom: 2em;
+        }
+        section h2 {
+            color: #004d40;
+            border-bottom: 2px solid #1a75ff;
+            padding-bottom: 0.5em;
+        }
+        .contact p, .personal-info p {
+            margin: 0.5em 0;
+        }
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            color: white;
+            background: #004d40;
+        }
+        .btn {
+            display: inline-block;
+            margin-top: 1em;
+            padding: 0.5em 1em;
+            background: #1a75ff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="profile.jpg" alt="Hatem Tolba">
+        <h1>Hatem Tolba</h1>
+        <p>Product Control Manager at OMSI Group</p>
+    </header>
+    <div class="container">
+        <section class="about-me">
+            <h2>About Me</h2>
+            <p>Highly motivated and results-oriented leader with 29.5 years of experience in the Egyptian Armed Forces. Expertise in air defense systems, training development, and project management. Proven ability to build and lead high-performing teams, fostering collaboration and knowledge sharing for optimal performance.</p>
+        </section>
+        <section class="education">
+            <h2>Education</h2>
+            <p><strong>MBA:</strong> Helwan University, Sep 2022 - Jun 2024</p>
+            <p><strong>DBA:</strong> Enrolled in October 2024</p>
+            <p><strong>Bachelor of Electrical Engineering:</strong> Alexandria University, Sep 1990 - May 1995</p>
+        </section>
+        <section class="experience">
+            <h2>Work Experience</h2>
+            <p><strong>Product Control Manager:</strong> OMSI Group, Jul 2024 - Present</p>
+            <p><strong>Deputy Chief of Training Department:</strong> Egyptian Army, Jul 2021 - Jan 2024</p>
+            <p><strong>Brigade Commander of Radar Systems:</strong> Egyptian Armed Forces, Jul 2018 - Jun 2021</p>
+            <p>Additional positions available upon request.</p>
+        </section>
+        <section class="skills">
+            <h2>Skills</h2>
+            <p>Leadership, Project Management, Strategic Thinking, Technology Integration, Problem Solving, and more.</p>
+        </section>
+        <section class="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:hatemtolba@hotmail.com">hatemtolba@hotmail.com</a></p>
+            <p>Phone: +201-006-502-650</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/Hatem-Tolba" target="_blank">linkedin.com/in/Hatem-Tolba</a></p>
+        </section>
+    </div>
+    <footer>
+        <p>© 2024 Hatem Tolba</p>
+    </footer>
+</body>
+</html>
